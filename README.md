@@ -8,9 +8,9 @@
   
 - 📫 How to reach me:
 -     📧 mnietoparedes@gmail.com
--     📲 (+34) 67 44 88 860
--     📍 Leganés, Madrid
--     👨‍💻 www.linkedin.com/in/miguel-nieto-p
+      📲 (+34) 67 44 88 860
+      📍 Leganés, Madrid
+      👨‍💻 www.linkedin.com/in/miguel-nieto-p
 
 <!---
 MiguelNietoP/MiguelNietoP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
